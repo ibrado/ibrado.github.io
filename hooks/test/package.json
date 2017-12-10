@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "language": "javascript",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "microcule .",
+    "test": "echo \"no tests available\""
+  },
+  "author": "jekyll-tweetposts",
+  "dependencies": {
+    "microcule": "4.x.x"
+  }
+}
